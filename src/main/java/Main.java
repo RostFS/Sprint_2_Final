@@ -32,3 +32,5 @@ public class Main {
         System.out.println(cart.getVegetarianTotalWithoutDiscount());
     }
 }
+
+// minor fix for pull request
